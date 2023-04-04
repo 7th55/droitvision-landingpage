@@ -1,0 +1,26 @@
+@media (max-width: 768px) {
+  .hero {
+    margin-bottom: 43px;
+  }
+  .features {
+    margin-bottom: 43px;
+  }
+  .examples {
+    .examples__list-item {
+      margin-bottom: -40px;
+    }
+
+    .examples__article {
+      padding: 0px 20px 0px 20px;
+    }
+    .examples__image {
+      display: flex;
+    }
+    .examples__article_second {
+      padding: 0 0 0 20px;
+    }
+    .examples__article_third {
+      padding: 0 0 0 20px;
+    }
+  }
+}
